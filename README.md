@@ -31,6 +31,10 @@ Bu proje, PHP ve MySQL kullanılarak geliştirilmiş basit bir **Hesap Yönetim 
 | personel_id    | INT           | Personel ID               |
 | organizasyon_id| INT           | Organizasyon ID           |
 
+
+//Proje Çıktıları Görsel olarak Proje İçinde Screenshot Klasörü İçerinde Paylaşılmıştır.
+
+
 ## 🚀 Kurulum Adımları
 
 1. Bu repoyu klonlayın:
